@@ -8,7 +8,7 @@
     {
       "name": "unleash",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/Lanbasara/unleash.git"
       },
       "description": "From harness to unleash — constraint as the path to freedom. A Claude Code skill suite for designing bespoke AI harnesses.",
