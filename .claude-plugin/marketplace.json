@@ -16,6 +16,18 @@
         "name": "Lanbasara",
         "url": "https://github.com/Lanbasara"
       }
+    },
+    {
+      "name": "slide-agent",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Lanbasara/slide-agent.git"
+      },
+      "description": "AI-native slide deck creation — design, build, and preview reveal.js + GSAP HTML presentations through natural language. Auto-versioned with git, live preview, and AI image generation.",
+      "author": {
+        "name": "Lanbasara",
+        "url": "https://github.com/Lanbasara"
+      }
     }
   ]
 }
